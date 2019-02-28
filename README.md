@@ -1,5 +1,5 @@
 # HavingClauseHQL
 
-HAVING clause with Hibernate Query Language(HQL).
+HAVING clause with Hibernate Query Language(HQL)
 
 OneToMany bidirectional
